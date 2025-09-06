@@ -1,1 +1,1 @@
-# healthsync
+# HealthSync
